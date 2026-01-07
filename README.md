@@ -1,7 +1,7 @@
 # Blood_Bank_Management_system-MYSQL-
 🩸 Blood Bank Management System – SQL Data Analysis Project
-📌 Project Overview
 
+📌 Project Overview
 This project focuses on analyzing a Blood Bank Management System using SQL to gain insights into blood availability, hospital demand, donor behavior, and inventory status. The objective is to identify shortages, operational risks, and inefficiencies in blood bank operations and provide data-driven recommendations to improve decision-making.
 
 🎯 Objectives
